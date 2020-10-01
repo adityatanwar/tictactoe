@@ -1,6 +1,6 @@
 function grid(){return Array.from(document.getElementsByClassName('q'));}
 function gridNumeric(){
-	var b=[]
+	var b=[];
 	a=document.getElementsByClassName('q')
 	for(var i=0;i<a.length;i++)
 	{
